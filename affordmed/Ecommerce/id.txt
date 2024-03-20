@@ -1,0 +1,19 @@
+{
+    "companyName": "goMart",
+    "clientID": "49d520c9-adbf-48d0-af8d-c1f2435a4f33",
+    "clientSecret": "URUhVKmdgazjpnbF",
+    "ownerName": "Dhaarani",
+    "ownerEmail": "dhaaranidhaaru0411@gmail.com",
+    "rollNo": "721221106017"
+}
+
+
+
+token
+
+
+{
+    "token_type": "Bearer",
+    "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJNYXBDbGFpbXMiOnsiZXhwIjoxNzEwOTEzMjkwLCJpYXQiOjE3MTA5MTI5OTAsImlzcyI6IkFmZm9yZG1lZCIsImp0aSI6IjQ5ZDUyMGM5LWFkYmYtNDhkMC1hZjhkLWMxZjI0MzVhNGYzMyIsInN1YiI6ImRoYWFyYW5pZGhhYXJ1MDQxMUBnbWFpbC5jb20ifSwiY29tcGFueU5hbWUiOiJnb01hcnQiLCJjbGllbnRJRCI6IjQ5ZDUyMGM5LWFkYmYtNDhkMC1hZjhkLWMxZjI0MzVhNGYzMyIsImNsaWVudFNlY3JldCI6IlVSVWhWS21kZ2F6anBuYkYiLCJvd25lck5hbWUiOiJEaGFhcmFuaSIsIm93bmVyRW1haWwiOiJkaGFhcmFuaWRoYWFydTA0MTFAZ21haWwuY29tIiwicm9sbE5vIjoiNzIxMjIxMTA2MDE3In0.6ui1ERXxU24pJa3ITey7ZYiyvSImTLMbPEeY-ur3ayg",
+    "expires_in": 1710913290
+}
