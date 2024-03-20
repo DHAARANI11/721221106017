@@ -32,7 +32,7 @@ class GetView(APIView):
 		return Response(user_data)
 
 
-class CompanyView(ListAPIView):
+class CompanyView(APIView):
 	authentication_classes = []
 
 	def get(self, request, format=None):
@@ -41,7 +41,7 @@ class CompanyView(ListAPIView):
 		return Response({}, status=status.HTTP_200_OK)
 
 
-class ProductListView(ListAPIView):
+class ProductListView(APIView):
 	authentication_classes = []
 	serializer_class = ProductSerializer
 	model = Product
